@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "Yunlong19950101!",
+      "displayName": "管理员"
+    },
+    {
+      "username": "panchunxiao",
+      "password": "pcx327618!",
+      "displayName": "潘春晓"
+    },
+    {
+      "username": "wuyunlong",
+      "password": "wyl19950101!",
+      "displayName": "吴云龙"
+    }
+  ]
+}
+
